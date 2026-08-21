@@ -1,6 +1,6 @@
-# ScanCheck — privacy policy
+# Traty — privacy policy
 
-The published privacy policy for the ScanCheck Android app, in English and
+The published privacy policy for the Traty Android app, in English and
 Russian. This repository exists only to serve that document at a stable public
 address, as Google Play requires: a privacy policy link has to be both in Play
 Console and inside the app.
